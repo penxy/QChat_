@@ -1,0 +1,8 @@
+**/log.txt
+**/Qt/
+**/*.sh
+**/.vscode/
+**/*.o
+**/Log/*
+**/build/
+**/bin/
